@@ -3,7 +3,6 @@
 
 
 Insights
-Insights
 insights
 
 
