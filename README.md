@@ -5,6 +5,7 @@
 Insights
 insights
 Insights
+Ins 
 
 Why do we need InSights?
 
